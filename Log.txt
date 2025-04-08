@@ -1,0 +1,18 @@
+Feb 20, 2025 1:59:06 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Server is running...
+Feb 20, 2025 1:59:32 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Client has connected {%s}.
+/127.0.0.1
+Feb 20, 2025 1:59:41 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Client said: hellow
+Feb 20, 2025 1:59:57 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Client said: there wht are ut donig
+Apr 02, 2025 10:17:34 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Server is running...
+Apr 02, 2025 10:17:43 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Client has connected {%s}.
+/127.0.0.1
+Apr 02, 2025 10:17:52 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Client said: anjana
+Apr 02, 2025 10:18:01 PM com.mycompany.tutorial.week03.socket2.SimpleChatServer main
+INFO: [SERVER] - Client said: senath
