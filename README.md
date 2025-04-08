@@ -7,8 +7,9 @@ Tutorial Week 03: Socket Programming. The application demonstrates basic network
 
 **The repository contains two main classes:**
 
-**SimpleChatServer:** A server that listens for client connections and responds to messages.
-**SimpleChatClient:** A client that connects to the server and sends messages.
+⚫ **SimpleChatServer:** A server that listens for client connections and responds to messages.
+
+⚫ **SimpleChatClient:** A client that connects to the server and sends messages.
 
 This project was built using the NetBeans IDE and follows the guidelines from Exercise 2 in the tutorial.
 
