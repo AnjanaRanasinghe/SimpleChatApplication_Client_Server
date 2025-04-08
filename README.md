@@ -85,3 +85,10 @@ Click Open Project.
 - Check the console output on both sides to see the communication.
 
 ---
+
+## License
+
+This project is distributed under the MIT License. Feel free to use it as you wish, and contributions are always welcome!
+
+---
+
