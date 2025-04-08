@@ -92,3 +92,8 @@ This project is distributed under the MIT License. Feel free to use it as you wi
 
 ---
 
+## Contact
+
+For any inquiries, please contact [anjana.20231160@iit.ac.lk] or open an issue on GitHub.
+
+---
